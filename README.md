@@ -6,6 +6,14 @@
 
 ## R user 
 
+Please make sure that you have  recent R and RStudio installed.
+
+  - R : https://cran.r-project.org/
+  - RStudio : https://www.rstudio.com/products/rstudio/download/preview/
+
+
+## R Packages 
+
 - R packages to be installed before workshop
 
 ```{r,eval=FALSE}
