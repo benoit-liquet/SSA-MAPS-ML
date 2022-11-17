@@ -1,6 +1,6 @@
 # A CRASH COURSE ON USING MACHINE LEARNING METHODS EFFECTIVELY IN PRACTICE
 
-
+- Event organized jointly by SSA and MAPS  https://www.statsoc.org.au/event-5028135
 
 
 
