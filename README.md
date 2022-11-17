@@ -2,6 +2,12 @@
 
 - Event organized jointly by SSA and MAPS  https://www.statsoc.org.au/event-5028135
 
+# Material
+
+- Note book used during the workshop
+    - Part 1: supervised learning
+    - Part 2: unsupervised learning
+
 
 
 ## R user 
