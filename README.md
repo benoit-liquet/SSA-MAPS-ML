@@ -10,7 +10,7 @@
 
 
 
-## R user 
+# R user 
 
 Please make sure that you have  recent R and RStudio installed.
 
@@ -46,7 +46,6 @@ install.packages("nnet")
 
 ## Data file to download from DATA folder
 
-
 - ``versatile-boundaries.RData``
 - ``Breast_cancer.RData``
 - ``train-images.idx3-ubyt``
@@ -54,3 +53,17 @@ install.packages("nnet")
 - ``t10k-images.idx3-ubyte``
 - ``t10k-labels.idx1-ubyte``
 - ``data-poly.Rdata``
+
+
+# Python user
+
+we use google collab to share code:
+
+- Part 1
+    - Lasso model
+- Part 2
+
+
+
+
+
