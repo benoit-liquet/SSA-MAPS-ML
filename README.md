@@ -5,8 +5,8 @@
 # Material
 
 - Note book used during the workshop
-    - Part 1: supervised learning
-    - Part 2: unsupervised learning
+    - Part 1: [supervised learning](/Machine_learning_PART1.nb.html)
+    - Part 2: [unsupervised learning](/Machine_learning_Part2.nb.html)
 
 
 
