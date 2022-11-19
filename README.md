@@ -4,9 +4,11 @@
 
 # Material
 
+- The easy way to get the material is to download the zip file of this archive
+
 - Note book used during the workshop
-    - Part 1: [supervised learning](/Machine_learning_PART1.nb.html)
-    - Part 2: [unsupervised learning](/Machine_learning_Part2.nb.html)
+    - Part 1: [supervised learning](/Machine_learning_PART1.nb.html.zip)
+    - Part 2: [unsupervised learning](/Machine_learning_Part2.nb.html.zip)
 
 
 
