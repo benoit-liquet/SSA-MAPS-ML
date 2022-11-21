@@ -61,9 +61,9 @@ install.packages("nnet")
 
 we use google collab to share code:
 
-- Part 1: supervised learning code
+- Part 1: [supervised learning code](https://colab.research.google.com/drive/1UgQSb3lGnxsTf1WBzH8jxusZs5rema88?usp=sharing)
     - [Lasso model code](https://colab.research.google.com/drive/1QRTvbggQ8DfujIfwnuQNT6Gzd_o7X8jU?usp=sharing) 
-- Part 2: unsupervised learning code
+- Part 2: [unsupervised learning code](https://colab.research.google.com/drive/1AcaLjqUGbXsKuv0L9BlyWr_XZTuVh3Wi?usp=sharing)
 
 
 
