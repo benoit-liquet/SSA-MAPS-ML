@@ -1,8 +1,10 @@
 # A CRASH COURSE ON USING MACHINE LEARNING METHODS EFFECTIVELY IN PRACTICE
 
 - Event organized jointly by SSA and MAPS  https://www.statsoc.org.au/event-5028135
+- Workshop based on Chapt 2 and 3 of [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
 
-# Material
+# Material 
+
 
 - The easy way to get the material is to download the zip file of this archive
 
